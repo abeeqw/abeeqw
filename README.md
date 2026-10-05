@@ -1,14 +1,6 @@
-# Hi, I'm abeeqw 👋
+# Hi, I'm WangQi
 
-🎓 Computer Science & Technology @ **JHU**
-🌱 Freshman · Class of 2026
-💻 Currently learning **Programming & Computer Science**
----
+Computer Science & Technology @ JHU
+Class of 2026
 
-### Currently Learning
-
-* Programming Fundamentals
-* Data Structures & Algorithms
-* Git & GitHub
-
-> **Still learning, still growing.**
+Currently learning programming and computer science.
